@@ -9,7 +9,7 @@ function changeSocialMediaLinks() {
 
 li.children[0].href = `https://${social}.com/${LinksSocialMedia[social]}`
 
-alert(li.children[0].href)
+
  }
 }
 
